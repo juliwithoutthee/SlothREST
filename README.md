@@ -2,7 +2,7 @@
 A Sloth RESTful API 
 
 
-## Starting the server 
+## Starting the Server 
 
 Please run the following code to start the server: 
 
